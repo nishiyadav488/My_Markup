@@ -1,0 +1,54 @@
+#top{
+	font-family: 'Abril Fatface', cursive;
+	background-color: black; 
+}
+
+.navbar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-top: 4px;
+}
+
+.navbar li{
+	display: inline-block;
+	font-size: 20px;
+	color : white;
+}
+
+
+.navbar li a{
+	display: inline-block;
+	text-decoration: none;
+	color : white;
+}
+
+#li1{
+	flex-grow: 4;
+}
+#li2{
+	flex-grow: 1;
+}
+#li3{
+	flex-grow: 1;
+}
+#li4{
+	flex-grow: 1;
+}
+#li5{
+	flex-grow: 1;
+}
+
+.contain img{
+	width: 1080px;
+	height : 500px;
+}
+.heading{
+	font-size: 25px;
+	z-index: 1000;
+	background-color: #9c0343;
+	width : 90%;
+	opacity: 70%;
+}
+
+

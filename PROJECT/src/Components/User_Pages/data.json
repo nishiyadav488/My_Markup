@@ -1,0 +1,63 @@
+{
+	"top" : {
+		"headerdata" : [
+			{"id" : "1", "title" : "Welcome to Madhya Pardesh"},
+			{"id" : "2", "home" : "Home"},
+			{"id" : "3", "about" : "About"},
+			{"id" : "4", "explore" : "Explore"},
+			{"id" : "4", "contact" : "Contact Us"}
+		],
+		"imagetext" : {
+			"text1" : "Khajurao temple,Chattarpur", 
+			"text2" : "Bhopal - City of Lakes",
+			"text3" : "Gujari Mahal, Gwalior",
+			"text4" : "Sanchi Stupta",
+			"text5" : "Mahakaleshwar Jyotiringa",
+			"text6" : "Origin of Narmada,Amrkantak"
+		}
+	},
+
+	"centre" : {
+		"heading" : "Madhya Pradesh",
+		"quote" : "''Heart of India''",
+		"content" : "dfgdf drgfg drgrdg dfgdfb gdfg grdgdf sdgdf dvdfb dbvdff vdfv gfb grg grt grrth awda ki kknkjf v ud jdljmkv jicns dnjk nadsb kjefnj kjn nfn nkvjlk lik nfwk mwcmk nkk nrvkk rvnklnk necjn fjnrck njncj nkjnj nknnc fiudcb rrth awda ki kknkjf v ud jdljmkv jicns dnjk nadsb kjefnj kjn nfn nkvjlk lik nfwk mwcmk nkk nrvkk rvnklnk necjn fjnrck njncj nkjnj nknnc",
+
+		"table" : [
+			{"text1" : "Formation", "value1" : "5 November nnnn"},
+			{"text2" : "Capital", "value2" : "Bhopal"},
+			{"text3" : "Largest City", "value3" : "Indore"},
+			{"text4" : "Population", "value4" : "72,626,809"},
+			{"text5" : "Literacy", "value5" : "70.6%"},
+			{"text6" : "Language", "value6" : "Hindi"},
+			{"text7" : "Website", "value7" : "mp.gov.in"}
+		]
+	},
+
+	"footer" : {
+		"manage" : {
+			"title" : "Manage",
+			"home" : "Home",
+			"about" : "About Us",
+			"plan" : "Plans",
+			"contact" : "Contact Us",
+			"explore" : "Explore"
+		},
+
+		"contact" : [
+			{"title" : "Contact"},
+			{"title" : "Phone", "value" : "1234567890"},
+			{"title" : "Email", "value" : "exploreit@gmail.com"},
+			{"title" : "Address", "value" : "Q-1, block-43, xyz colony,ABCD, XXXX, India"}
+		],
+
+		"address" : {
+			"title" : "Follow Us",
+			"facebook" : "Facebook",
+			"twitter" : "Twitter",
+			"insta" : "Instagram"
+
+		}
+	}
+
+
+}

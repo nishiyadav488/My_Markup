@@ -1,0 +1,40 @@
+footer{
+	background-color: black;
+	font-size: 20px;
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	color: white;
+	justify-content: space-around;
+	font-family: 'Abril Fatface', cursive;
+}
+.f_heading{
+	display: inline-block;
+	text-decoration-line: underline;
+}
+
+
+footer ul li{
+	text-decoration: none;
+	color: white;
+	list-style-type: none;
+}
+
+footer li a{
+	text-decoration: none;
+	color: white;
+}
+
+#manage{
+	flex-basis: 400px;
+}
+
+#contact{
+	flex-basis: 600px;
+}
+
+#address{
+	flex-basis: 300px;
+}
+

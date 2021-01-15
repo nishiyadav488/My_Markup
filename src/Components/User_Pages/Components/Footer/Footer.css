@@ -1,0 +1,41 @@
+footer{
+	border-radius: 100% 100% 0px 0px;
+	background-color: white;
+	font-size: 15px;
+	padding: 30px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	color: black;
+	justify-content: space-around;
+	
+}
+.f_heading{
+	display: inline-block;
+	text-decoration-line: underline;
+}
+
+
+footer ul li{
+	text-decoration: none;
+	color: black;
+	list-style-type: none;
+}
+
+footer li a{
+	text-decoration: none;
+	color: black;
+}
+
+#manage{
+	flex-basis: 400px;
+}
+
+#contact{
+	flex-basis: 600px;
+}
+
+#address{
+	flex-basis: 300px;
+}
+

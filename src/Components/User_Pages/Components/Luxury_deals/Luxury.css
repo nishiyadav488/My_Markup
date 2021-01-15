@@ -1,0 +1,75 @@
+#image img{
+	width: 1050px;
+	height: 240px;
+}
+
+#title_text{
+	position: relative;
+	top: -145px;
+	left: 200px;
+	background-color: #f6ebdf ;
+	opacity: 70%;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 30px;
+}
+#luxury{
+	background-color: #f6ebdf;
+}
+
+#whole{
+	background-color: #f6ebdf;
+}
+#content{
+	padding: 10px;
+	margin-left: 20%;
+	
+	
+}
+#content img{
+	width: 200px;
+	height: 180px;
+	cursor: pointer;
+	opacity : 90%;
+}
+
+#content img:hover{
+	opacity: 100%;
+}
+
+.mycard{
+	display: flex;
+	flex-direction: row;
+	width: 70%;
+	justify-content: space-around;
+	padding: 3px;
+	border : 2px dotted black; 
+	background-color: white;
+}
+
+.myimage{
+	padding: 3px;
+}
+.content{
+	padding: 3px;
+}
+.head{
+	text-decoration: underline;
+	cursor: pointer;
+}
+.locai{
+	font-size: 10px;
+}
+.text{
+	font-size: 13px;
+}
+.rating{
+	padding: 3px;
+}
+button{
+	cursor: pointer;
+	position: relative;
+	top: 12%;
+	left:-3%;
+	font-size: 12px;
+}

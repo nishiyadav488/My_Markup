@@ -1,0 +1,74 @@
+#ratecard button{
+	font-size: 10px;
+	width : 37%;
+	color: #2F3542;
+}
+.slick-prev::before{
+	
+	position: relative;
+	left : -19px;
+	color: black;
+	border-radius: 100%;	
+	background-color: white;
+}
+.slick-next::before{
+	
+	position: relative;
+	left : 775px;
+	color: black;
+	border-radius: 100%;
+	background-color: white;
+}
+
+
+
+img{
+	width: 180px;
+	height: 200px;
+	border-radius: 10px; 
+}
+
+.rate_collection {
+	padding: 4px;
+	border-radius: 10px;
+
+}
+
+#top_destination{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	padding: 10px;
+	text-decoration: underline;
+	color: #2F3542;
+}
+
+#rate{
+	width: 70%;
+	margin-left: 13%;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+
+}
+
+#card_title{
+	font-size: 14px;
+	text-decoration: underline;
+	
+}
+
+#card_locai{
+	font-size: 11px;
+	color: #8C8B8B;
+}
+
+#card_ratings{
+	font-size: 12px;
+	color: #8C8B8B;
+}
+
+#card_price{
+	font-size: 12px;
+	color: #8C8B8B;
+}

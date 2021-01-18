@@ -1,0 +1,74 @@
+
+#about{
+	display: flex;
+	flex-wrap: wrap;
+	width : 67%;
+	
+	margin: 5% 18% ;
+}
+
+.headd{
+	font-size: 30px;
+	text-align: center;
+	text-decoration : underline;
+}
+
+#about li img {
+	width : 200px;
+	height: 200px;
+	padding: 4px;
+	opacity : 80%;
+}
+
+
+#about li img:hover{
+	opacity: 95%;
+	cursor: pointer;
+}
+
+#about li {
+	display: inline-block;
+	text-decoration-style: none;
+	flex : 50%;
+	padding: 4px;
+}
+
+#about div{
+	display: inline-block;
+	text-decoration : underline;
+	font-size: 20px;
+	opacity: 100%;
+	font-weight: bold;
+	}
+
+#img1{
+	position: relative;
+	bottom: 345px;
+	left: 15%;
+}
+#img2{
+	position: relative;
+	bottom:345px;
+	left:33% ;
+}
+
+#img3{
+	position: relative;
+	bottom:345px;
+	left:55% ;
+}
+#img4{
+	position: relative;
+	bottom:135px;
+	left: -14%;
+}
+#img5{
+	position: relative;
+	bottom:135px;
+	left: 7%;
+}
+#img6{
+	position: relative;
+	bottom:135px;
+	left:27% ;
+}
